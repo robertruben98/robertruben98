@@ -54,6 +54,17 @@ Building payment platforms at scale, fraud detection, and real-time analytics �
 > Real time spent in my editor (WakaTime) — including private work — so the languages I actually use show up, even though that code lives in private repos.
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 8 hrs 36 mins
+
+TypeScript   2 hrs 10 mins         ██████░░░░░░░░░░░░░░░░░░░   23.73 %
+Python       1 hr 41 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
+Markdown     1 hr 30 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
+Kotlin       54 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+Text         49 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
