@@ -22,7 +22,7 @@ Building payment platforms at scale, fraud detection, and real-time analytics ‚Ä
 
 **Core**
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,postgres,redis,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,postgres,elasticsearch,redis,kafka)](https://skillicons.dev)
 
 **Infra & tooling**
 
@@ -33,6 +33,7 @@ Building payment platforms at scale, fraud detection, and real-time analytics ‚Ä
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -63,4 +64,3 @@ Building payment platforms at scale, fraud detection, and real-time analytics ‚Ä
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-coming_soon-555555?style=flat-square&logo=linkedin&logoColor=white)
 
 üìç Madrid, Spain ¬∑ EU work permit ¬∑ Open to **remote (EU)** ¬∑ English (advanced)
-
