@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Senior+Backend+Engineer;Payments+at+Scale+%C2%B7+Fraud+Detection;Real-Time+Analytics+%26+AI+Backends&font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=560&height=45)](https://www.a-robertdev.com)
 
 Full-Stack Software Engineer · Senior backend (Python / Django).
-Building payment platforms at scale, fraud detection, and real-time analytics — based in **Madrid**, EU work permit, available **remote (EU)**.
+Building payment platforms at scale, fraud detection, and real-time analytics.
 
 ---
 
