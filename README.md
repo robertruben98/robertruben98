@@ -75,5 +75,3 @@ Text         49 mins               ██▒░░░░░░░░░░░░
 [![Email](https://img.shields.io/badge/Email-robertruben98@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:robertruben98@gmail.com)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-coming_soon-555555?style=flat-square&logo=linkedin&logoColor=white)
 
-📍 Madrid, Spain · EU work permit · Open to **remote (EU)** · English (advanced)
-
