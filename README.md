@@ -48,14 +48,7 @@ Building payment platforms at scale, fraud detection, and real-time analytics �
 - **paydocs-rag** *(in progress)* — a RAG demo over payment documentation: retrieval pipeline, embeddings store, and an LLM query layer. Not public yet; release planned.
 - Deep-diving event-driven payment architectures and real-time fraud signals.
 
----
 
-### ⏱️ Weekly coding — real hours (includes private work, via WakaTime)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
 
 ### Connect
 
