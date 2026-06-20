@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Senior+Backend+Engineer;Payments+at+Scale+%C2%B7+Fraud+Detection;Real-Time+Analytics+%26+AI+Backends&font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=560&height=45)](https://www.a-robertdev.com)
 
-Full-Stack Software Engineer · Senior backend (Python / Django).
-Building payment platforms at scale, fraud detection, and real-time analytics — based in **Madrid**, EU work permit, available **remote (EU)**.
+Senior Backend Engineer (Python / Django) specializing in payments and fraud detection.
+Building high-availability transaction platforms, fraud detection systems, and real-time streaming pipelines — based in **Madrid**, EU work permit, available **remote (EU)**.
 
 ---
 
@@ -14,27 +14,23 @@ Building payment platforms at scale, fraud detection, and real-time analytics �
 - **Real-time analytics** — streaming and time-series pipelines with **FastAPI · TimescaleDB · Kafka**.
 - **AI / LLM backends** — retrieval-augmented systems and LLM-driven agents wired into production services.
 
-> Most of my strongest work lives in **private, confidential codebases**, so it isn't reflected in public repositories.
-
 ---
 
 ### Tech stack
 
 **Core**
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,postgres,redis,kafka)](https://skillicons.dev)
-
-**Infra & tooling**
-
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,git,linux)](https://skillicons.dev)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+**Infra & tooling**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -46,31 +42,6 @@ Building payment platforms at scale, fraud detection, and real-time analytics �
 
 - **paydocs-rag** *(in progress)* — a RAG demo over payment documentation: retrieval pipeline, embeddings store, and an LLM query layer. Not public yet; release planned.
 - Deep-diving event-driven payment architectures and real-time fraud signals.
-
----
-
-### ⏱️ Weekly coding activity
-
-> Real time spent in my editor (WakaTime) — including private work — so the languages I actually use show up, even though that code lives in private repos.
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 12 June 2026 - To: 19 June 2026
-
-Markdown     5 hrs 57 mins         ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   36.56 %
-Python       4 hrs 33 mins         ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░   27.98 %
-TypeScript   2 hrs 1 min           ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   12.41 %
-JavaScript   1 hr 34 mins          ▓▓░░░░░░░░░░░░░░░░░░░░░░░   09.68 %
-Text         49 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-Bash         19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-JSON         18 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Dart         17 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-```
-
-<!--END_SECTION:waka-->
-
----
 
 ### Connect
 
